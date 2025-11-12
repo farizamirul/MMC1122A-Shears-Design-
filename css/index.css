@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+body  {background-color:sandybrown}
+#wrapper2 {background-color:white; margin: 0px auto;width:950px}
+#wrapper {background-color:white; margin:0px auto;width:1000px}
+#logo {float:left;}
+#icon {float:right;}
+#Navigation {clear:both;word-spacing:20px;border-top: solid black 1px;border-bottom: solid black 1px; margin:5px 0px 5px 0px;padding: 15px 0px 15px 0px}
+#Navigation a {font-family:Arial; font-size:15px; word-spacing:15px;}
+#Navigation a :link {color:#000}
+#Navigation a :hover {color:#c60;}
+
+#Tittle {color:#c60;border-bottom:solid black 1px;}
+
+#leftcontent {float:left;widht:600px}
+#leftcontent p {font-family:Arial; font-size:12px;margin:10px 0px 10px 0px}
+
+#leftcontent {float:left;widht:900px}
+#leftcontent p {font-family:Arial; font-size:12px;margin:10px 0px 10px 0px}
+
+
+#leftcontent img {border:solid black 1px;padding:5px;}
+
+#Latestnews {float:right;width:200px;}
+#tittle h2 {color:#c60;}
+
+#footer {clear:both;paddign:10px 50 px 10px 390px; border-top:solid black 1px;}
+
+#modernrooms {float:left; width:253px;background-color:grey; margin:15px auto;norder-top:solid darkblue}
+#traditionalrooms {float:left; widht:253px;background-color:grey; margin: 15px auto;border-top:solid darkblue 10px;font-family: Arial;}
